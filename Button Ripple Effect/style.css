@@ -5,13 +5,13 @@
 }
 :root {
   --button: #f06543;
-  /* #5398be */
+
 }
 
 body {
   font-family: "Roboto", sans-serif;
   background-color: #282828;
-  /* color: #fff; */
+
   margin: 0;
   display: flex;
   flex-direction: column;
